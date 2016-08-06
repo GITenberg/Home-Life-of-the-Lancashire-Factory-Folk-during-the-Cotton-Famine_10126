@@ -1,0 +1,27 @@
+_repo: Home-Life-of-the-Lancashire-Factory-Folk-during-the-Cotton-Famine_10126
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Waugh, Edwin
+    birthdate: 1817
+    deathdate: 1890
+    gutenberg_agent_id: '3317'
+    url: http://www.gutenberg.org/2009/agents/3317
+    wikipedia: http://en.wikipedia.org/wiki/Edwin_Waugh
+description: Cover -- Contents.
+gutenberg_issued: '2003-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10126'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Working class -- England -- Lancashire'
+- !lcsh 'Cotton famine, 1861-1864'
+- !lcsh 'Labor -- England -- Lancashire'
+- !lcc 'HD'
+- GITenberg
+title: Home-Life of the Lancashire Factory Folk during the Cotton Famine
+url: http://www.gutenberg.org/ebooks/10126
